@@ -1,15 +1,14 @@
 ## Hi👋, I am Abhishek Ranjan
 Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
-
 <img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
-  
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek-Ranjan-16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
+
+<h6 align="left">## Technologies & Tools<br><br>- **Programming Languages**: JavaScript, Python, C++<br>- **Backend Development**: Node.js, Express.js<br>- **Frontend Development**: React.js<br>- **Database**: MongoDB, MySQL<br>- **Version Control**: Git, GitHub<br>- **Competitive Programming**: Codeforces (Specialist), Codechef (3-star coder), Leetcode (Knight)</h6>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Ranjan-16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -46,20 +45,13 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abhishek-Ranjan-16/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=Abhishek-Ranjan-16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-## Technologies & Tools
-
-- **Programming Languages**: JavaScript, Python, C++
-- **Backend Development**: Node.js, Express.js
-- **Frontend Development**: React.js
-- **Database**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
-- **Competitive Programming**: Codeforces (Specialist), Codechef (3-star coder), Leetcode (Knight)
 
 ## Projects
 
