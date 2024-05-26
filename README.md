@@ -1,6 +1,5 @@
 ## Hi👋, I am Abhishek Ranjan
-Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
-<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
+Senior year at [NIT SILCHAR](http://www.nits.ac.in/) 
 <img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
 
 ###
