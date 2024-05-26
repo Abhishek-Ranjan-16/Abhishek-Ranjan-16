@@ -55,26 +55,26 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 
 ## Projects
 
-### [Project 1: Travel Buddy](https://github.com/Abhishek-Ranjan-16?tab=repositories)
+### [Project 1: Travel Buddy](https://abhishek-ranjan-16.github.io/Travel-Buddy/)
 A collection of my solutions to various travelling problems. Has a calculator, currency converter, password generator (password manager as well for local desktop) and todo list with a robust backend.
 
-### [Project 2: Chattu Chat App](https://github.com/Abhishek-Ranjan-16?tab=repositories)
+### [Project 2: Chattu Chat App](https://chattuapp.onrender.com/)
 A full-stack application built with MongoDB, Express.js, React.js, and Node.js. Uses socket IO for realtime chat.
 
 ### [Project 3: Human vs AI Text Detection](https://github.com/Abhishek-Ranjan-16?tab=repositories)
 Uses BERT Model, trained with PAN 24 datasets, utilizes heavy training on datasets to classify a written text between Human and AI (ChatGPT, Alpaca, meta llama etc).
 
-### [Project 3: Event Management Legacy Program](https://github.com/Abhishek-Ranjan-16?tab=repositories)
+### [Project 3: Event Management Legacy Program](https://github.com/Abhishek-Ranjan-16/manage_event)
 This uses OOPS concepts of C++ and is designed to carry out tasks related to managing events that are organised in colleges across globe.
 
 ## Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/2112016-ranjan](https://www.linkedin.com/in/2112016-ranjan/)
-- **Email**: [abhiran14082002@gmail.com](mailto:abhiran14082002@gmail.com)
-- **GitHub**: [github.com/Abhishek-Ranjan-16](https://github.com/Abhishek-Ranjan-16)
-- **Portfolio**: [Now you know I am batman.](https://abhishek-ranjan-16.github.io/Portfolio/)
+- **LinkedIn**  : [linkedin.com/in/2112016-ranjan](https://www.linkedin.com/in/2112016-ranjan/)
+- **Email**     : [abhiran14082002@gmail.com](mailto:abhiran14082002@gmail.com)
+- **GitHub**    : [github.com/Abhishek-Ranjan-16](https://github.com/Abhishek-Ranjan-16)
+- **Portfolio** : [Now you know I am batman.](https://abhishek-ranjan-16.github.io/Portfolio/)
 
-Thank you for visiting my portfolio! Feel free to reach out if you have any questions or opportunities.
+Feel free to reach out if you have any questions or opportunities.
 
 ---
 
