@@ -55,16 +55,16 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 
 ## Projects
 
-### [Project 1: Travel Buddy](coming soon)
+### [Project 1: Travel Buddy](https://github.com/Abhishek-Ranjan-16?tab=repositories)
 A collection of my solutions to various travelling problems. Has a calculator, currency converter, password generator (password manager as well for local desktop) and todo list with a robust backend.
 
-### [Project 2: Chattu Chat App](coming soon)
+### [Project 2: Chattu Chat App](https://github.com/Abhishek-Ranjan-16?tab=repositories)
 A full-stack application built with MongoDB, Express.js, React.js, and Node.js. Uses socket IO for realtime chat.
 
-### [Project 3: Human vs AI Text Detection](coming soon)
+### [Project 3: Human vs AI Text Detection](https://github.com/Abhishek-Ranjan-16?tab=repositories)
 Uses BERT Model, trained with PAN 24 datasets, utilizes heavy training on datasets to classify a written text between Human and AI (ChatGPT, Alpaca, meta llama etc).
 
-### [Project 3: Event Management Legacy Program](coming soon)
+### [Project 3: Event Management Legacy Program](https://github.com/Abhishek-Ranjan-16?tab=repositories)
 This uses OOPS concepts of C++ and is designed to carry out tasks related to managing events that are organised in colleges across globe.
 
 ## Get in Touch
