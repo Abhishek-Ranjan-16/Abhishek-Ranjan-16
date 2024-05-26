@@ -69,7 +69,7 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 - **Programming Languages**: JavaScript, Python, C++
 - **Backend Development**: Node.js, Express.js
 - **Frontend Development**: React.js
-- **Database**: MongoDB
+- **Database**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
 - **Competitive Programming**: Codeforces (Specialist), Codechef (3-star coder), Leetcode (Knight)
 
