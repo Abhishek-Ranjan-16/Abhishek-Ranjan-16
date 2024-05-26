@@ -1,11 +1,13 @@
 ## Hi👋, I am Abhishek Ranjan
 Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 <img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
+<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
 
-##
-<h6 align="left">## Technologies & Tools<br><br>- **Programming Languages**: JavaScript, Python, C++<br>- **Backend Development**: Node.js, Express.js<br>- **Frontend Development**: React.js<br>- **Database**: MongoDB, MySQL<br>- **Version Control**: Git, GitHub<br>- **Competitive Programming**: Codeforces (Specialist), Codechef (3-star coder), Leetcode (Knight)</h6>
+###
 
-##
+<h6 align="left">Technologies & Tools<br><br>- Programming Languages: JavaScript, Python, C++<br>- Backend Development: Node.js, Express.js<br>- Frontend Development: React.js<br>- Database: MongoDB, MySQL<br>- Version Control: Git, GitHub<br>- Competitive Programming: Codeforces (Specialist), Codechef (3-star coder), Leetcode (Knight)</h6>
+
+###
 
 <br clear="both">
 
@@ -14,7 +16,7 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Ranjan-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
