@@ -1,18 +1,8 @@
 ## Hi👋, I am Abhishek Ranjan
 Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 
-🎓 Actively pursuing a Bachelor's degree in Computer Science & Engineering with a CGPA of 9.24  
-🚀 Deeply committed to problem-solving and competitive programming  
-💻 Specialize in backend development with the MERN stack  
-🌱 Constantly seeking opportunities to enhance my skills and contribute meaningfully to the tech landscape  
-🌱 I’m currently learning about backend development 
-📫 Reach me at abhiran14082002@gmail.com
 
-
-[![GitHub CI](https://img.shields.io/badge/Codeforces-1424-cyan)](https://codeforces.com/profile/Ghost_16)
-[![GitHub CI](https://img.shields.io/badge/Codechef-1628-blue)](https://www.codechef.com/users/ranjan_140802) 
-<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
-<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
+<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  /> 
 
 ###
 
@@ -38,6 +28,18 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Ranjan-16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Ranjan-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+🎓 Actively pursuing a Bachelor's degree in Computer Science & Engineering with a CGPA of 9.24  
+🚀 Deeply committed to problem-solving and competitive programming  
+💻 Specialize in backend development with the MERN stack  
+🌱 Constantly seeking opportunities to enhance my skills and contribute meaningfully to the tech landscape  
+🌱 I’m currently learning about backend development 
+📫 Reach me at abhiran14082002@gmail.com
+
+
+[![GitHub CI](https://img.shields.io/badge/Codeforces-1424-cyan)](https://codeforces.com/profile/Ghost_16)
+[![GitHub CI](https://img.shields.io/badge/Codechef-1628-blue)](https://www.codechef.com/users/ranjan_140802) 
 
 ###
 
