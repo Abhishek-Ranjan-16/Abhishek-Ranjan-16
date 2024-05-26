@@ -66,7 +66,7 @@ My personal portfolio website showcasing my projects and skills.
 
 ## Get in Touch
 
-- **LinkedIn**: [[linkedin.com/in/abhishek-ranjan](https://www.linkedin.com/in/abhishek-ranjan)](https://www.linkedin.com/in/2112016-ranjan/)
+- **LinkedIn**: [linkedin.com/in/2112016-ranjan](https://www.linkedin.com/in/2112016-ranjan/)
 - **Email**: [abhiran14082002@gmail.com](mailto:abhiran14082002@gmail.com)
 - **GitHub**: [github.com/Abhishek-Ranjan-16](https://github.com/Abhishek-Ranjan-16)
 
