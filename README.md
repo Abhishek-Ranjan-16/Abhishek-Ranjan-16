@@ -5,13 +5,13 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 [![GitHub CI](https://img.shields.io/badge/Codechef-1628-blue)](https://www.codechef.com/users/ranjan_140802)
 [![GitHub CI](https://img.shields.io/badge/Leetcode-1781-blue)](https://leetcode.com/u/abhiran14082002/)
 
+
+
+<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
 - 🎓 I’m currently pursuing BTech CSE from NIT Silchar with a CGPA of 9.24
 - 🌱 I’m currently learning about backend development
 - 💬 Ask me about Web Development and Competitive Programming
 - 📫 Reach me at abhiran14082002@gmail.com
-
-
-<img align="right" height="200" src="https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1722470400&v=beta&t=UIaSChomTevlLE9JCSHKfA56eLCYDDiyhqMrLTfGWE4"  />
 
 ###
 
