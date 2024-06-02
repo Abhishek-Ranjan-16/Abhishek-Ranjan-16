@@ -69,7 +69,8 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 ## Projects
 
 ### [Project 1: Travel Buddy](https://abhishek-ranjan-16.github.io/Travel-Buddy/)
-A collection of my solutions to various travelling problems. Has a calculator, currency converter, password generator (password manager as well for local desktop) and todo list with a robust backend.
+Tech Stacks: HTML, CSS, Javascript, NodeJS, ExpressJS, MongoDB, ReactJS, Sass, Firebase, JWT authentication.
+Developed an app featuring a expense tracker, calculator, currency converter, analog clock with date, random password generator, password manager, and a to-do list with full backend support. Mutli-Utility application that would help others in planning their trips. One of my first projects.
 
 ### [Project 2: Chattu Chat App](https://chattuapp.onrender.com/)
 A full-stack application built with MongoDB, Express.js, React.js, and Node.js. Uses socket IO for realtime chat.
