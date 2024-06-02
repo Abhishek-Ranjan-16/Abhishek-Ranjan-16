@@ -72,8 +72,8 @@ Senior year at [NIT SILCHAR](http://www.nits.ac.in/)
 Tech Stacks: HTML, CSS, Javascript, NodeJS, ExpressJS, MongoDB, ReactJS, Sass, Firebase, JWT authentication.
 Developed an app featuring a expense tracker, calculator, currency converter, analog clock with date, random password generator, password manager, and a to-do list with full backend support. Mutli-Utility application that would help others in planning their trips. One of my first projects.
 
-### [Project 2: Chattu Chat App](https://chattuapp.onrender.com/)
-A full-stack application built with MongoDB, Express.js, React.js, and Node.js. Uses socket IO for realtime chat.
+### [Project 2: Chattu Chat App](https://chattuapp.onrender.com/)Tech Stacks: MongoDB, ExpressJS, ReactJS, NodeJS, Socket IO. 
+The app features real-time messaging with group chat capabilities and instant notifications. Implemented secure user authentication, message storage, and retrieval in MongoDB. Utilized Socket.io for seamless real-time communication, ensuring immediate message delivery and updates. The app also includes notification functionality.
 
 ### [Project 3: Human vs AI Text Detection](https://aivshuman-nits.netlify.app/#home)
 Uses BERT Model, trained with PAN 24 datasets, utilizes heavy training on datasets to classify a written text between Human and AI (ChatGPT, Alpaca, meta llama etc).
