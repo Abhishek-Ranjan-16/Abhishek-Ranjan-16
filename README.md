@@ -85,6 +85,7 @@ This uses OOPS concepts of C++ and is designed to carry out tasks related to man
 - **LinkedIn**: [linkedin.com/in/2112016-ranjan](https://www.linkedin.com/in/2112016-ranjan/)
 - **Email**: [abhiran14082002@gmail.com](mailto:abhiran14082002@gmail.com)
 - **GitHub**: [github.com/Abhishek-Ranjan-16](https://github.com/Abhishek-Ranjan-16)
+- **Youtube**: [My Channel](https://www.youtube.com/@ummm.....9465)
 - **Portfolio**: [Now you know I am batman.](https://abhishek-ranjan-16.github.io/Portfolio/)
 
 Feel free to reach out if you have any questions or opportunities.
