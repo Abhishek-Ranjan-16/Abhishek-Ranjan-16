@@ -74,8 +74,8 @@ Developed an app featuring a expense tracker, calculator, currency converter, an
 ### [Project 2: Chattu Chat App](https://chattuapp.onrender.com/) Tech Stacks: MongoDB, ExpressJS, ReactJS, NodeJS, Socket IO. 
 The app features real-time messaging with group chat capabilities and instant notifications. Implemented secure user authentication, message storage, and retrieval in MongoDB. Utilized Socket.io for seamless real-time communication, ensuring immediate message delivery and updates. The app also includes notification functionality.
 
-### [Project 3: Human vs AI Text Detection](https://aivshuman-nits.netlify.app/#home)
-Uses BERT Model, trained with PAN 24 datasets, utilizes heavy training on datasets to classify a written text between Human and AI (ChatGPT, Alpaca, meta llama etc).
+### [Project 3: Human vs AI Text Detection](https://aivshuman-nits.netlify.app/#home) Tech Stacks: Python, BERT Model, PAN 24 Datasets, ACL Datasets, Kaggle Datasets training, ReactJS, Flask, Tensorflow, Kretas.
+Crafted a dynamic website leveraging Python, MERN stack, and BERT model for text classification. Distinguishes human from AI-written text in real-time, trained on datasets from Kaggle, PAN 24, and ACL. Published a [research paper](https://drive.google.com/file/d/1k6WFBN-OOq7lUf1mIR-7YGG841co6yej/view) on it as well.
 
 ### [Project 3: Event Management Legacy Program](https://github.com/Abhishek-Ranjan-16/manage_event)
 This uses OOPS concepts of C++ and is designed to carry out tasks related to managing events that are organised in colleges across globe.
