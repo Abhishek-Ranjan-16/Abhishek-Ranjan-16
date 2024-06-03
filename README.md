@@ -98,7 +98,7 @@ Command Line Interface python programme which determines the most probable text 
 - **Email**: [abhiran14082002@gmail.com](mailto:abhiran14082002@gmail.com)
 - **GitHub**: [github.com/Abhishek-Ranjan-16](https://github.com/Abhishek-Ranjan-16)
 - **Youtube**: [My Channel](https://www.youtube.com/@ummm.....9465)
-- **Resume**:[Google Drivee](https://drive.google.com/file/d/1t8YwPtPiz5XAoz1Z3ZQVFT5rmust4Ari/view)
+- **Resume**: [Drive Link](https://drive.google.com/file/d/1t8YwPtPiz5XAoz1Z3ZQVFT5rmust4Ari/view)
 - **Portfolio**: [Now you know I am batman.](https://abhishek-ranjan-16.github.io/Portfolio/)
 
 Feel free to reach out if you have any questions or opportunities.
