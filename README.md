@@ -1,4 +1,4 @@
-## Hi👋, I am Abhishek Ranjan
+## Hi👋, I am Abhishek Ranjan (GAWD)
 Senior year at [NIT SILCHAR](http://www.nits.ac.in/) 
 ###
 [![GitHub CI](https://img.shields.io/badge/Codeforces-1424-cyan)](https://codeforces.com/profile/Ghost_16)
